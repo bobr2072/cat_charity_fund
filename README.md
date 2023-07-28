@@ -4,9 +4,8 @@ Charitable foundation for the support of cats. The Foundation collects donations
 
 ### Technologies
 
-[![FastAPI][FastAPI-badge]][FastAPI-url]
-[![FastAPIUsers][FastAPIUsers-badge]][FastAPIUsers-url]
-[![SQLAlchemy][SQLAlchemy-badge]][SQLAlchemy-url]
+[![FastApi](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
+[![SQLAlchemy](https://www.sqlalchemy.org)
 
 ### Documentation
 
