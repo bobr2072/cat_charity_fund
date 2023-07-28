@@ -4,8 +4,8 @@ Charitable foundation for the support of cats. The Foundation collects donations
 
 ### Technologies
 
--[FastApi](https://fastapi.tiangolo.com)
--[SQLAlchemy](https://www.sqlalchemy.org)
+[FastApi](https://fastapi.tiangolo.com) <br>
+[SQLAlchemy](https://www.sqlalchemy.org)
 
 
 ### Documentation
